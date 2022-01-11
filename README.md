@@ -1,2 +1,2 @@
-# todo-list
-to-do list webapp for the odin project
+# project-skeleton
+basic setup for a project
